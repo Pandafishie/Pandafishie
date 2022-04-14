@@ -4,6 +4,8 @@
 - 👀 I’m interested in all kinds of automatisation
 - 📫 How to reach me: @PandaFish#6906 on Discord (User ID: <@244126983489978368>)
 
+# I have migrated almost all of my repositories to gitlab...
+
 <!--
 - 👋 Hi, I’m @Pandafishie
 - 👀 I’m interested in ...

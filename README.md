@@ -1,31 +1,56 @@
-# I have migrated almost all of my repositories to [my gitlab <img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&" height="25" />](https://gitlab.com/PandaFish/)...<br/>My Github might be inactive.
+# I have migrated almost all of my repositories to [my GitLab](https://gitlab.com/PandaFish/)...<br/>My Github might be inactive.
 <br/>
 <br/>
 
 ## About me:
 - 👋 Hi, I’m [@Pandafishie](https://github.com/Pandafishie) / Florian Steigleder
-- I'm working at [Fraunhofer (IOSB)](https://www.iosb.fraunhofer.de/) as a scientifc research associate.
+- I'm working at [Fraunhofer (IOSB)](https://www.iosb.fraunhofer.de/) as a scientific research associate.
 - Studying Computer Science (B. Sc.) (2020-2023)
-- 👀 I’m interested in all kinds of automatisation
+- 👀 I’m interested in all kinds of automatization
 - 📫 How to reach me:
 
-[<img src="https://img.shields.io/badge/-PandaFish%236906-282C34?logo=Discord" alt="Discord logo" title="Discord" height="25" />](https://discord.com/users/244126983489978368) >
-<a href="mailto:alt.florian1@gmail.com?subject=%5BGithub%5D%20-%20Subject"><img src="https://img.shields.io/badge/-Gmail-282C34?logo=Gmail" alt="Email logo" title="Email" height="25" /></a> >
-[<img src="https://img.shields.io/badge/Instagram-%23282C34.svg?logo=Instagram" height="25" />](https://www.instagram.com/flos.flo/)
+
+<a href="https://discord.com/users/244126983489978368">
+  <img src="https://img.shields.io/badge/-PandaFish%236906-282C34?logo=Discord" alt="Discord logo" title="Discord" height="25" />
+</a>
+>
+<a href="mailto:alt.florian1@gmail.com?subject=%5BGithub%5D%20-%20Subject">
+  <img src="https://img.shields.io/badge/-Gmail-282C34?logo=Gmail" alt="Email logo" title="Email" height="25" />
+</a>
+>
+<a href="https://www.instagram.com/flos.flo/">
+  <img src="https://img.shields.io/badge/Instagram-%23282C34.svg?logo=Instagram" height="25" />
+</a>
 <br/> (Priority in that order)
 <br/>
 
 ## Languages and tools that shape my everyday @ work:
 <p>
-<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp" height="25" />
-<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus" height="25" />
-<img src="https://img.shields.io/badge/C-282C34?logo=c" height="25" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&" height="25" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-282C34?logo=csharp" height="25" />
+</a>
+<a href="https://learn.microsoft.com/de-de/cpp/cpp/">
+  <img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus" height="25" />
+</a>
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference">
+  <img src="https://img.shields.io/badge/C-282C34?logo=c" height="25" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-282C34?logo=python&" height="25" />
+</a>
 <br/>
-<img src="https://img.shields.io/badge/Git-282C34?logo=git" height="25" />
-<img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&" height="25" />
-<img src="https://img.shields.io/badge/VS-282C34?logo=visualstudio" height="25" />
-<img src="https://img.shields.io/badge/VSC-282C34?logo=visualstudiocode" height="25" />
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git" height="25" />
+</a>
+<a href="https://gitlab.com/PandaFish">
+  <img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&" height="25" />
+</a>
+<a href="https://visualstudio.microsoft.com/">
+  <img src="https://img.shields.io/badge/VS-282C34?logo=visualstudio" height="25" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VSC-282C34?logo=visualstudiocode" height="25" />
+</a>
 </p>
 
 ### Other languages and tools I'm using in private projects:

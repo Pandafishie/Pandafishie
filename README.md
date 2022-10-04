@@ -5,6 +5,7 @@
 ## About me:
 - 👋 Hi, I’m [@Pandafishie](https://github.com/Pandafishie) / Florian Steigleder
 - I'm working at [Fraunhofer (IOSB)](https://www.iosb.fraunhofer.de/) as a scientifc research associate.
+- Studying Computer Science (B. Sc.) (2020-2023)
 - 👀 I’m interested in all kinds of automatisation
 - 📫 How to reach me:
 

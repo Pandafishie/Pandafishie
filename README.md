@@ -1,4 +1,4 @@
-# I have migrated almost all of my repositories to [my gitlab](https://gitlab.com/PandaFish/)...<br/>My Github might be inactive.
+# I have migrated almost all of my repositories to [my gitlab <img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&" height="25" />](https://gitlab.com/PandaFish/)...<br/>My Github might be inactive.
 <br/>
 <br/>
 

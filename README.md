@@ -1,5 +1,5 @@
 # I have migrated almost all of my repositories to [my GitLab](https://gitlab.com/PandaFish/)...<br/>My Github might be inactive.
-<br/>
+<!---<br/>
 <br/>
 
 ## About me:
@@ -70,6 +70,7 @@
 <br/>
 And more...
 </p>
+-->
 
 <!--
 - 👋 Hi, I’m @Pandafishie

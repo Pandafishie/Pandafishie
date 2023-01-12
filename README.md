@@ -1,4 +1,4 @@
-# I have migrated almost all of my repositories to [my GitLab](https://gitlab.com/PandaFish/)...<br/>My Github might be inactive.
+# I have migrated almost all of my repositories to [my GitLab](https://gitlab.com/PandaFish/Pandafish)...<br/>My Github might be inactive.
 <!---<br/>
 <br/>
 
